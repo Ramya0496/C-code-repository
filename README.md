@@ -1,2 +1,2 @@
 # codeforpractice
-the codes i have practiced so far
+the code i have practiced so far
