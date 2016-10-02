@@ -6,6 +6,6 @@ for char in s:
         l=1
         e=0
     elif (l==1):
-        print char,
+        print char.lower(),
         e=1
         l=0
